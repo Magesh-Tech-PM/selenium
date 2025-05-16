@@ -8,7 +8,7 @@ public class helloworld_google {
 
         WebDriver driver = new FirefoxDriver();
 
-        driver.get("http://www.facebook.com");
+        driver.get("http://www.google.com");
 
         driver.quit;
 
