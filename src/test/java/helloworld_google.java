@@ -6,7 +6,7 @@ public class helloworld_google {
 
     public static void main(String[] args) {
 
-        WebDriver driver = new FirefoxDriver();
+        WebDriver driver = new ChromeDriver();
 
         driver.get("http://www.google.com");
 
